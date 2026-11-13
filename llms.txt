@@ -1,33 +1,51 @@
 # ChinaMed Access
 
-> ChinaMed Access is an international patient coordination platform connecting overseas patients with accredited hospitals and qualified specialists in Shanghai, China. We coordinate case review, appointments, translation, travel, treatment logistics and follow-up care. We are NOT a hospital and do not provide medical treatment.
+> ChinaMed Access is an international patient coordination platform connecting overseas patients with accredited hospitals and qualified specialists in Shanghai and across China. We coordinate case review, appointments, translation, travel, treatment logistics and follow-up care. We are NOT a hospital and do not provide medical treatment.
 
-- Home: https://chinamed-access.chilledsites.com/
-- How It Works: https://chinamed-access.chilledsites.com/how-it-works.html
-- Medical Case Review: https://chinamed-access.chilledsites.com/medical-case-review.html
-- Specialist Network: https://chinamed-access.chilledsites.com/doctors.html
-- Patient Stories: https://chinamed-access.chilledsites.com/patient-stories.html
-- About: https://chinamed-access.chilledsites.com/about.html
-- Contact: https://chinamed-access.chilledsites.com/contact.html
-- Travel & Accommodation: https://chinamed-access.chilledsites.com/travel-accommodation.html
-- Health Check-up: https://chinamed-access.chilledsites.com/health-checkup.html
+## Main pages
+
+- Home: https://mardicpropitious.github.io/china-med-access/
+- How It Works: https://mardicpropitious.github.io/china-med-access/how-it-works.html
+- Medical Case Review: https://mardicpropitious.github.io/china-med-access/medical-case-review.html
+- Specialist Network (featured): https://mardicpropitious.github.io/china-med-access/doctors.html
+- Patient Stories: https://mardicpropitious.github.io/china-med-access/patient-stories.html
+- Travel & Accommodation: https://mardicpropitious.github.io/china-med-access/travel-accommodation.html
+- Health Check-up: https://mardicpropitious.github.io/china-med-access/health-checkup.html
+- About: https://mardicpropitious.github.io/china-med-access/about.html
+- Contact: https://mardicpropitious.github.io/china-med-access/contact.html
+
+## Structured directories
+
+- Hospital directory: https://mardicpropitious.github.io/china-med-access/hospitals/
+- Specialist directory (222 physicians): https://mardicpropitious.github.io/china-med-access/doctors/
+- Department directory (26 specialties): https://mardicpropitious.github.io/china-med-access/departments/
 
 ## Services
 
-- Cancer Care: https://chinamed-access.chilledsites.com/specialties/cancer-care.html
-- Surgery & Orthopedics: https://chinamed-access.chilledsites.com/specialties/surgery.html
-- Clinical Trial Information: https://chinamed-access.chilledsites.com/specialties/clinical-trials.html
-- Internal Medicine: https://chinamed-access.chilledsites.com/specialties/internal-medicine.html
-- TCM & Rehabilitation: https://chinamed-access.chilledsites.com/specialties/tcm-rehabilitation.html
+- Cancer Care: https://mardicpropitious.github.io/china-med-access/specialties/cancer-care.html
+- Surgery & Orthopedics: https://mardicpropitious.github.io/china-med-access/specialties/surgery.html
+- Clinical Trial Information: https://mardicpropitious.github.io/china-med-access/specialties/clinical-trials.html
+- Internal Medicine: https://mardicpropitious.github.io/china-med-access/specialties/internal-medicine.html
+- TCM & Rehabilitation: https://mardicpropitious.github.io/china-med-access/specialties/tcm-rehabilitation.html
 
-## Key Facts
+## Directory coverage
 
-- ChinaMed Access coordinates international patient journeys to accredited Shanghai hospitals; medical decisions are made by treating physicians.
-- Specialist network includes hepatobiliary/pancreatic oncology (Fudan University Shanghai Cancer Center), joint surgery (Shanghai Sixth People's Hospital), cardiology (Zhongshan Hospital) and acupuncture (Longhua Hospital) — from public hospital profiles.
-- Services include cancer care, surgery/orthopedics, clinical trial information, internal medicine, TCM/rehabilitation and health check-ups.
+- 26 medical departments, each mapped to the Fudan University Hospital Management Institute 2023 specialty reputation ranking, with the nationally #1-ranked hospital and the leading hospital tier.
+- 93 hospitals, each with its own profile page listing nationally top-ranked departments and specialists.
+- 222 physician profiles (academicians, department leads, key specialists and additional specialists), each cross-linked to their hospital and department.
+- Notable #1-ranked departments include: respiratory medicine (Guangzhou Medical University First Affiliated Hospital), cardiology and cardiac surgery (Fuwai Hospital), neurosurgery (Beijing Tiantan Hospital), oncology (Cancer Hospital CAMS), orthopedics (Beijing Jishuitan Hospital), ophthalmology (Zhongshan Ophthalmic Center), plastic surgery (Shanghai Ninth People's Hospital), hematology (Peking University People's Hospital).
+
+## Key facts
+
+- China's inbound medical tourism is growing: ~73,200 foreign patient visits to Shanghai public hospitals in 2025 (+8% YoY); ~12,800 medical-tourism visits to Hainan Boao Lecheng in 2025 from 14 countries.
 - Hospital medical fees are paid directly to the hospital; coordination service fees are itemized separately.
-- China's inbound medical tourism is growing: ~73,200 foreign patient visits to Shanghai public hospitals in 2025 (+8% YoY); ~12,800 medical-tourism visits to Hainan Boao Lecheng in 2025.
+- Standard coordination timeline: initial assessment ~2 working days; appointment and visa 1–2 weeks; first consultation to arrival typically 3–4 weeks.
 
 ## Compliance
 
-ChinaMed Access is a coordination service, not a medical institution. Per China's Medical Advertisement Recognition Guidelines (2025), non-medical institutions may not publish medical advertisements. We publish objective, authorized hospital and physician information and coordinate patient needs with hospitals for independent medical evaluation. We do not promise cure rates or guarantee clinical trial enrollment. Patient stories are anonymized.
+ChinaMed Access is a coordination service, not a medical institution. Per China's Medical Advertisement Recognition Guidelines (2025), non-medical institutions may not publish medical advertisements. We publish objective, publicly-sourced hospital and physician information and coordinate patient needs with hospitals for independent medical evaluation. We do not promise cure rates, treatment outcomes, or clinical trial enrollment. Patient stories are anonymized. Directory listings compile public information and do not imply formal hospital partnerships; availability is confirmed at the time of enquiry.
+
+## Source notes
+
+- Department rankings: Fudan University Hospital Management Institute, 2023 China Hospital Specialty Reputation Ranking.
+- Physician profiles: public hospital profile pages, public academic society appointments, national academician and TCM master lists, and public media reports. Compiled November 2026. Verification with the hospital's official channels is recommended before booking.
