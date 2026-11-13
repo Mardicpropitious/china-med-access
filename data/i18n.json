@@ -1,0 +1,1011 @@
+{
+ "doctors": {
+  "respiratory-zhong-nan-shan": {
+   "title": "Academician, Chinese Academy of Engineering; recipient of the Medal of the Republic",
+   "authority": "China's leading figure in respiratory medicine; core founder of the National Clinical Research Center for Respiratory Diseases and the State Key Laboratory of Respiratory Disease; former President of the Chinese Medical Association; long-time architect of China's respiratory disease prevention strategy.",
+   "focus": "COPD, bronchial asthma, lung cancer, respiratory infectious diseases, lung transplantation and respiratory critical care.",
+   "achievement": "Led China's SARS response in 2003; served as head of the National Health Commission's high-level expert group in 2020 and confirmed person-to-person transmission of COVID-19; drove the development of China's respiratory infectious disease control system and lung transplantation techniques.",
+   "honors": "Medal of the Republic; National Science and Technology Progress Special Award (participant); National Advanced Worker; Ho Leung Ho Lee Foundation Science and Technology Progress Award."
+  },
+  "respiratory-cao-bin": {
+   "achievement": "Led clinical and translational research on respiratory viral infections including COVID-19 and influenza, advancing severe-case early warning and antiviral treatment strategies.",
+   "honors": "Infection research platform of the National Clinical Research Center for Respiratory Diseases; leads National Key R&D Program projects on respiratory infections."
+  },
+  "respiratory-xu-zuo-jun": {
+   "achievement": "Established a multidisciplinary care pathway for interstitial lung disease (ILD), promoting early recognition and standardised treatment.",
+   "honors": "Leads ILD registries and clinical research including idiopathic pulmonary fibrosis."
+  },
+  "respiratory-bai-chun-xue": {
+   "achievement": "Proposed and popularised an internet-of-things model for early lung cancer screening and built an AI assessment system for pulmonary nodules.",
+   "honors": "Early lung cancer screening programmes and multicentre AI research on pulmonary nodules."
+  },
+  "respiratory-lai-ke-fang": {
+   "achievement": "Led the drafting of China's chronic cough diagnosis and treatment guideline and established dedicated chronic cough clinics.",
+   "honors": "Research on chronic cough mechanisms and cough hypersensitivity syndrome."
+  },
+  "respiratory-wang-chen": {
+   "focus": "Respiratory and critical care medicine, pulmonary embolism, respiratory support technology; principal lead of the National Clinical Research Center for Respiratory Diseases (Beijing)."
+  },
+  "respiratory-qu-jie-ming": {
+   "focus": "Respiratory infections, pulmonary infections and critical care."
+  },
+  "respiratory-chen-rong-chang": {
+   "focus": "COPD, respiratory mechanics and non-invasive ventilation."
+  },
+  "cardiology-ge-jun-bo": {
+   "title": "Academician, Chinese Academy of Sciences",
+   "authority": "Academician of the Chinese Academy of Sciences; standing council member of the World Heart Federation; chairman of the China Cardiovascular Health Alliance; former chair of the Chinese Society of Cardiology; a leading figure in interventional cardiology in China.",
+   "focus": "Complex coronary intervention, structural heart intervention (valvular disease and congenital heart disease), acute myocardial infarction care, and integrated management of complex cardiovascular disease.",
+   "achievement": "Developed the internationally recognised transcatheter heart valve replacement approach known as the Hangzhou method, offering a minimally invasive option for elderly patients unfit for open-heart surgery; advanced the national chest pain centre system.",
+   "honors": "National Science and Technology Progress Award (Second Class); Ho Leung Ho Lee Foundation Science and Technology Progress Award; National Innovation Award."
+  },
+  "cardiology-hua-wei": {
+   "achievement": "Advanced pacing electrophysiology and CRT/ICD device therapy, leading several expert consensus documents on device treatment.",
+   "honors": "Multicentre research on device therapy for arrhythmias."
+  },
+  "cardiology-zhou-yu-jie": {
+   "achievement": "Complex coronary intervention and transcatheter valve therapy; advanced circulatory support for high-risk PCI.",
+   "honors": "Research on optimised coronary intervention and structural heart disease."
+  },
+  "cardiology-chen-shao-liang": {
+   "achievement": "Originated a two-stent technique for coronary bifurcation lesions (adopted in international guidelines); pioneered denervation therapy for pulmonary hypertension.",
+   "honors": "Research on bifurcation lesion intervention and interventional treatment of pulmonary hypertension."
+  },
+  "cardiology-huang-lan": {
+   "achievement": "Research on high-altitude heart disease and coronary care; established a prevention and treatment system for high-altitude cardiovascular disease.",
+   "honors": "National-level research projects on high-altitude heart disease."
+  },
+  "cardiology-han-ya-ling": {
+   "focus": "Complex and critical coronary intervention, chronic total occlusion (CTO) lesions, antithrombotic therapy."
+  },
+  "cardiology-gao-run-lin": {
+   "focus": "Coronary intervention, emergency management of acute myocardial infarction."
+  },
+  "cardiology-ma-chang-sheng": {
+   "focus": "Catheter ablation for atrial fibrillation, arrhythmias."
+  },
+  "cardiology-huo-yong": {
+   "focus": "Coronary intervention, hypertension, cardiovascular prevention."
+  },
+  "cardiac-surgery-hu-sheng-shou": {
+   "title": "Academician, Chinese Academy of Engineering",
+   "authority": "Academician of the Chinese Academy of Engineering; director of the National Center for Cardiovascular Diseases; president of Fuwai Hospital; a leading figure in cardiovascular surgery and ventricular assist devices/artificial hearts in China.",
+   "focus": "Coronary surgery, valve surgery, congenital heart disease, end-stage heart failure with ventricular assist devices, heart transplantation.",
+   "achievement": "Led the development and clinical application of a domestically produced fully magnetically levitated artificial heart, advancing end-stage heart failure care and scaling up heart transplantation in China.",
+   "honors": "National Science and Technology Progress Award (Second Class); Ho Leung Ho Lee Foundation Science and Technology Progress Award."
+  },
+  "cardiac-surgery-guo-ying-qiang": {
+   "achievement": "Innovations in transcatheter aortic valve replacement (TAVR) and mitral valve intervention.",
+   "honors": "Multicentre clinical research on structural heart intervention."
+  },
+  "cardiac-surgery-zhao-qiang": {
+   "achievement": "Total-arterial grafting strategy for coronary bypass and minimally invasive coronary surgery.",
+   "honors": "Multicentre randomised controlled trials in coronary surgery."
+  },
+  "cardiac-surgery-liu-sheng": {
+   "achievement": "Clinical application of heart transplantation and ventricular assist devices (artificial heart).",
+   "honors": "Research on transplant immune tolerance and mechanical circulatory support."
+  },
+  "cardiac-surgery-feng-wei": {
+   "achievement": "Coronary surgery and surgical ablation for atrial fibrillation.",
+   "honors": "Research on surgical treatment of atrial fibrillation and coronary revascularisation."
+  },
+  "cardiac-surgery-sun-li-zhong": {
+   "focus": "Aortic aneurysm and dissection, complex cardiac surgery."
+  },
+  "cardiac-surgery-zhuang-jian": {
+   "focus": "Congenital heart surgery, complex cardiac procedures."
+  },
+  "cardiac-surgery-pan-xiang-bin": {
+   "focus": "Structural heart intervention, transcatheter valve therapy."
+  },
+  "neurosurgery-zhou-liang-fu": {
+   "title": "Academician, Chinese Academy of Engineering",
+   "authority": "Academician of the Chinese Academy of Engineering; honorary chair of the Chinese Neurosurgical Society; one of the pioneers of minimally invasive and microsurgery in Chinese neurosurgery.",
+   "focus": "Central nervous system tumours, cerebrovascular disease, congenital conditions, craniocerebral trauma; minimally invasive, navigated and microsurgery.",
+   "achievement": "Helped establish Huashan Hospital's neurosurgery department as a world-class centre, with internationally advanced outcomes in complex procedures for cerebral aneurysms, skull base tumours and vascular malformations.",
+   "honors": "National Science and Technology Progress Award; Ho Leung Ho Lee Foundation Science and Technology Progress Award."
+  },
+  "neurosurgery-bo-bo": {
+   "achievement": "Innovative microsurgical approaches to skull base tumours (petroclival, cavernous sinus and jugular foramen regions).",
+   "honors": "Research on surgical treatment of skull base tumours and skull base anatomy."
+  },
+  "neurosurgery-chen-xiao-lei": {
+   "achievement": "Pioneered workflows combining intraoperative MRI with functional neuronavigation and endoscopic treatment of hypertensive intracerebral haemorrhage.",
+   "honors": "Research on neuroendoscopy and intraoperative image navigation."
+  },
+  "neurosurgery-jian-feng-zeng": {
+   "achievement": "Spinal neurosurgery: minimally invasive treatment of cervical spondylosis and spinal cord tumours.",
+   "honors": "Research on minimally invasive surgery for spinal and spinal cord disease."
+  },
+  "neurosurgery-jiang-rong-cai": {
+   "achievement": "Statin therapy for chronic subdural haematoma with a reported cure rate of about 84%.",
+   "honors": "Multicentre research on pharmacotherapy for chronic subdural haematoma."
+  },
+  "neurosurgery-zhao-ji-zong": {
+   "focus": "Cerebrovascular surgery, brain tumours."
+  },
+  "neurosurgery-ling-feng": {
+   "focus": "Brain and spinal vascular disease, cervical spondylosis."
+  },
+  "neurosurgery-zhang-li-wei": {
+   "focus": "Skull base tumours, brainstem tumours."
+  },
+  "neurology-cui-li-ying": {
+   "title": "Chief physician, professor, doctoral supervisor",
+   "authority": "Director of neurology at Peking Union Medical College Hospital; former chair of the Chinese Society of Neurology; an authority on neuromuscular disease and electrophysiology in China.",
+   "focus": "Neuromuscular disease, EMG and neuroelectrophysiology, motor neuron disease, peripheral neuropathy, Parkinson's disease and cerebrovascular disease.",
+   "achievement": "Led the establishment of national neuroelectrophysiology diagnostic standards and is a national leader in the diagnosis and treatment of rare neuromuscular diseases such as ALS.",
+   "honors": "Chinese Medical Science and Technology Award; National Outstanding Science and Technology Worker."
+  },
+  "neurology-chen-sheng-di": {
+   "achievement": "Research on early diagnosis of Parkinson's disease and movement disorders.",
+   "honors": "National clinical research cohort for Parkinson's disease."
+  },
+  "neurology-fan-dong-sheng": {
+   "achievement": "ALS registry system and genetic diagnosis.",
+   "honors": "Multicentre ALS registry research."
+  },
+  "neurology-ceng-jin-sheng": {
+   "achievement": "Acute-phase management and secondary prevention of cerebrovascular disease.",
+   "honors": "National-level research projects on stroke prevention and treatment."
+  },
+  "neurology-xu-yun": {
+   "achievement": "Cerebral small vessel disease and post-stroke cognitive impairment.",
+   "honors": "Cohort research on cerebral small vessel disease."
+  },
+  "neurology-wang-yong-jun": {
+   "focus": "Cerebrovascular disease, stroke centre systems and the CHANCE trial programme."
+  },
+  "neurology-jia-jian-ping": {
+   "focus": "Alzheimer's disease, cognitive disorders."
+  },
+  "neurology-pu-chuan-qiang": {
+   "focus": "Complex neurological conditions, cerebrovascular disease."
+  },
+  "orthopedics-qiu-gui-xing": {
+   "title": "Academician, Chinese Academy of Engineering",
+   "authority": "Academician of the Chinese Academy of Engineering; former chair of the Chinese Orthopaedic Association; an authority on spine surgery and spinal deformity correction in China.",
+   "focus": "Scoliosis and spinal deformity, degenerative spinal disease, joint replacement, complex orthopaedic surgery.",
+   "achievement": "Established the PUMC classification for scoliosis, widely adopted internationally, and standardised spinal deformity correction surgery in China.",
+   "honors": "National Science and Technology Progress Award (Second Class); Ho Leung Ho Lee Foundation Science and Technology Progress Award."
+  },
+  "orthopedics-zhang-ying-ze": {
+   "title": "Academician, Chinese Academy of Engineering",
+   "achievement": "Proposed the concept of internal bone medicine and a minimally invasive fracture treatment system; invented minimally invasive fixation for pelvic fractures.",
+   "honors": "Minimally invasive fracture treatment and internal bone medicine research."
+  },
+  "orthopedics-wang-kun-zheng": {
+   "achievement": "Joint replacement and hip- and knee-preserving techniques.",
+   "honors": "Clinical and prosthesis research in joint replacement."
+  },
+  "orthopedics-zhou-dong-sheng": {
+   "achievement": "Pelvic and acetabular fractures and severe polytrauma care.",
+   "honors": "Research on minimally invasive pelvic fracture fixation."
+  },
+  "orthopedics-qu-tie-bing": {
+   "achievement": "Complex joint replacement and revision, treatment of joint infection.",
+   "honors": "Research on joint revision and infection prevention."
+  },
+  "orthopedics-tang-pei-fu": {
+   "focus": "Orthopaedic trauma, reconstruction after severe polytrauma."
+  },
+  "orthopedics-tian-wei": {
+   "focus": "Spine surgery, navigation-assisted surgery, upper cervical deformity."
+  },
+  "orthopedics-wang-yan": {
+   "focus": "Joint replacement, spinal deformity."
+  },
+  "orthopedics-sun-tian-sheng": {
+   "focus": "Spinal cord injury, spine surgery."
+  },
+  "oncology-xu-rui-hua": {
+   "title": "Academician, Chinese Academy of Engineering",
+   "authority": "Academician of the Chinese Academy of Engineering; president of Sun Yat-sen University Cancer Center; a leader in precision diagnosis and immunotherapy of gastrointestinal cancers in China.",
+   "focus": "Gastrointestinal cancers (colorectal, gastric, oesophageal), tumour immunotherapy and targeted therapy, integrated treatment of advanced cancer.",
+   "achievement": "Led multiple international multicentre trials that brought immunotherapy and precision subtyping for colorectal and gastric cancer into international guidelines.",
+   "honors": "National Science and Technology Progress Award (Second Class); Ho Leung Ho Lee Foundation Science and Technology Progress Award."
+  },
+  "oncology-shen-lin": {
+   "achievement": "Clinical research on precision and immunotherapy for gastrointestinal cancers.",
+   "honors": "Multicentre clinical research on gastric and oesophageal cancer."
+  },
+  "oncology-qin-shu-kui": {
+   "achievement": "Systemic therapy and molecular targeted research in liver cancer.",
+   "honors": "Liver cancer clinical trial collaborative group."
+  },
+  "oncology-guo-jun": {
+   "achievement": "Immunotherapy and targeted therapy for melanoma.",
+   "honors": "Translational and clinical research in melanoma."
+  },
+  "oncology-wu-ling-ying": {
+   "achievement": "Radiotherapy and integrated treatment for gynaecological cancers.",
+   "honors": "Clinical research on cervical and ovarian cancer."
+  },
+  "oncology-he-jie": {
+   "focus": "Surgery and integrated treatment for lung and oesophageal cancer."
+  },
+  "oncology-zhou-cai-cun": {
+   "focus": "Targeted and immunotherapy for lung cancer."
+  },
+  "oncology-yu-jin-ming": {
+   "focus": "Radiation oncology."
+  },
+  "oncology-fan-dai-ming": {
+   "focus": "Gastrointestinal oncology, holistic integrative medicine."
+  },
+  "thoracic-surgery-he-jie": {
+   "title": "Academician, Chinese Academy of Sciences",
+   "authority": "Academician of the Chinese Academy of Sciences; director of the National Cancer Center; president of the Cancer Hospital, Chinese Academy of Medical Sciences; an authority on thoracic surgery and lung/oesophageal cancer surgery in China.",
+   "focus": "Minimally invasive surgery and integrated treatment for lung cancer, oesophageal cancer and mediastinal tumours; standardisation of thoracic oncology care.",
+   "achievement": "Led the establishment of the National Cancer Center and the national cancer registry system; advanced early lung cancer screening and standardised minimally invasive oesophageal cancer surgery.",
+   "honors": "National Science and Technology Progress Award (First Class); Ho Leung Ho Lee Foundation Science and Technology Progress Award."
+  },
+  "thoracic-surgery-wang-jun": {
+   "title": "Academician, Chinese Academy of Engineering",
+   "achievement": "Founded China's thoracoscopic minimally invasive thoracic surgery system and popularised minimally invasive lung cancer surgery.",
+   "honors": "Research on standardising thoracoscopic minimally invasive surgery."
+  },
+  "thoracic-surgery-zhi-xiu-yi": {
+   "achievement": "Early lung cancer screening, tobacco control and promotion of standardised lung cancer care.",
+   "honors": "Early diagnosis and treatment programme for lung cancer."
+  },
+  "thoracic-surgery-xu-lin": {
+   "achievement": "Complex thoracic tumour resection and tissue reconstruction.",
+   "honors": "Research on reconstruction after thoracic tumour surgery."
+  },
+  "thoracic-surgery-chen-long-qi": {
+   "achievement": "Minimally invasive oesophageal cancer surgery and anastomotic technique improvement.",
+   "honors": "Multicentre research in oesophageal cancer surgery."
+  },
+  "thoracic-surgery-gao-shu-geng": {
+   "focus": "Minimally invasive lung cancer surgery and integrated treatment."
+  },
+  "thoracic-surgery-he-jian-hang": {
+   "focus": "Tubeless minimally invasive thoracic surgery, lung transplantation."
+  },
+  "thoracic-surgery-chen-hai-quan": {
+   "focus": "Precision resection of small pulmonary nodules."
+  },
+  "thoracic-surgery-liu-lun-xu": {
+   "focus": "Thoracoscopic lobectomy, complex thoracic surgery."
+  },
+  "obstetrics-gynecology-lang-jing-he": {
+   "title": "Academician, Chinese Academy of Engineering",
+   "authority": "Academician of the Chinese Academy of Engineering; former chair of the Chinese Society of Obstetrics and Gynaecology; an authority on gynaecological oncology, endometriosis and minimally invasive gynaecology in China.",
+   "focus": "Gynaecological oncology, endometriosis, minimally invasive gynaecological surgery, pelvic floor and reproductive health.",
+   "achievement": "Promoted the uptake of laparoscopic and minimally invasive techniques in Chinese gynaecology and led the drafting of guidelines including those for endometriosis.",
+   "honors": "National Science and Technology Progress Award (Second Class); Ho Leung Ho Lee Foundation Science and Technology Progress Award."
+  },
+  "obstetrics-gynecology-di-wen": {
+   "achievement": "Immunotherapy and minimally invasive treatment for gynaecological cancers.",
+   "honors": "Clinical research on ovarian and cervical cancer."
+  },
+  "obstetrics-gynecology-duan-hua": {
+   "achievement": "Hysteroscopic minimally invasive surgery and uterine cavity reconstruction.",
+   "honors": "Research on intrauterine adhesions and uterine malformation repair."
+  },
+  "obstetrics-gynecology-yang-dong-zi": {
+   "achievement": "Polycystic ovary syndrome and assisted reproduction endocrinology.",
+   "honors": "Research on PCOS metabolism and reproduction."
+  },
+  "obstetrics-gynecology-liu-xing-hui": {
+   "achievement": "High-risk pregnancy and prevention of postpartum haemorrhage.",
+   "honors": "National-level projects in obstetric critical care."
+  },
+  "obstetrics-gynecology-qiao-jie": {
+   "focus": "Assisted reproduction, reproductive endocrinology."
+  },
+  "obstetrics-gynecology-chen-zi-jiang": {
+   "focus": "Reproductive medicine, infertility."
+  },
+  "obstetrics-gynecology-ma-ding": {
+   "focus": "Gynaecological oncology, cervical cancer."
+  },
+  "obstetrics-gynecology-zhu-lan": {
+   "focus": "Female pelvic floor dysfunction, minimally invasive gynaecology."
+  },
+  "pediatrics-huang-guo-ying": {
+   "title": "Chief physician, professor, doctoral supervisor",
+   "authority": "President of Children's Hospital of Fudan University; president of the Paediatricians Branch of the Chinese Medical Doctor Association; an authority on paediatric cardiovascular disease in China.",
+   "focus": "Congenital heart disease in children, Kawasaki disease, interventional and echocardiographic diagnosis of paediatric cardiovascular disease.",
+   "achievement": "Advanced early screening and interventional treatment systems for congenital heart disease in children and led the drafting of paediatric guidelines including for Kawasaki disease.",
+   "honors": "National Famous Doctor award; Shanghai Science and Technology Progress Award."
+  },
+  "pediatrics-jiang-zai-fang": {
+   "achievement": "Paediatric respiratory disease and paediatric tuberculosis care systems.",
+   "honors": "Research on paediatric respiratory disease."
+  },
+  "pediatrics-chen-yu-zhi": {
+   "achievement": "Epidemiology and standardised management of childhood asthma.",
+   "honors": "Research on childhood asthma prevention and treatment."
+  },
+  "pediatrics-du-li-zhong": {
+   "achievement": "Neonatal respiratory support and care of preterm infants.",
+   "honors": "Research on neonatal respiratory disease."
+  },
+  "pediatrics-luo-xiao-ping": {
+   "achievement": "Paediatric endocrine, genetic and metabolic disease, and growth and development.",
+   "honors": "Research on rare and inherited metabolic diseases in children."
+  },
+  "pediatrics-gui-yong-hao": {
+   "focus": "Paediatric cardiovascular disease, congenital heart disease."
+  },
+  "pediatrics-zhao-zheng-yan": {
+   "focus": "Child health care, inherited metabolic disease."
+  },
+  "pediatrics-feng-zhi-chun": {
+   "focus": "Neonatal intensive care, paediatric critical care."
+  },
+  "pediatrics-chen-chao": {
+   "focus": "Neonatology, care of preterm infants."
+  },
+  "ophthalmology-wang-ning-li": {
+   "title": "Academician, Chinese Academy of Engineering; Academician, International Council of Ophthalmology",
+   "authority": "Academician of the Chinese Academy of Engineering; director of the Eye Centre at Beijing Tongren Hospital; dean of the Capital Medical University School of Ophthalmology; former chair of the Chinese Ophthalmological Society; the only mainland Chinese scholar to have chaired both the World Glaucoma Association and the Asia-Pacific Academy of Ophthalmology.",
+   "focus": "Glaucoma mechanisms and management, myopia prevention in children and adolescents, ophthalmic AI and translation of frontier technology.",
+   "achievement": "Glaucoma research incorporated into 15 international consensus guidelines; named an Elsevier Highly Cited Chinese Researcher 11 consecutive times; drove domestic development of several ophthalmic devices.",
+   "honors": "Two National Science and Technology Progress Awards (Second Class); Ho Leung Ho Lee Foundation Science and Technology Progress Award; Guanghua Engineering Science and Technology Award."
+  },
+  "ophthalmology-li-xiao-xin": {
+   "achievement": "Vitreoretinal surgery and screening for retinopathy of prematurity (ROP).",
+   "honors": "ROP screening and fundus disease research."
+  },
+  "ophthalmology-xu-xun": {
+   "achievement": "Diabetic retinopathy screening and AI-assisted diagnosis.",
+   "honors": "Multicentre AI research on diabetic retinopathy screening."
+  },
+  "ophthalmology-zhou-xing-tao": {
+   "achievement": "Innovation in small-incision lenticule extraction (SMILE) and refractive surgery.",
+   "honors": "Research on visual quality after refractive surgery."
+  },
+  "ophthalmology-yao-ke": {
+   "achievement": "Minimally invasive cataract surgery and intraocular lens research.",
+   "honors": "Research on surgical technique innovation in cataract."
+  },
+  "ophthalmology-fan-xian-qun": {
+   "focus": "Ocular oncology, orbital disease, oculoplastic surgery."
+  },
+  "ophthalmology-qu-jia": {
+   "focus": "Myopia prevention, optometry."
+  },
+  "ophthalmology-zhang-xiu-lan": {
+   "focus": "Glaucoma."
+  },
+  "ophthalmology-wang-zheng": {
+   "focus": "Refractive surgery (LASIK/ICL)."
+  },
+  "dermatology-jin-hong-zhong": {
+   "title": "Chief physician, professor, doctoral supervisor",
+   "authority": "Director of dermatology at Peking Union Medical College Hospital; chair-elect/vice-chair of the Chinese Society of Dermatology and Venereology; an authority on dermatopathology and dermatologic surgery in China.",
+   "focus": "Skin tumours, dermatopathology, dermatologic surgery, laser aesthetics, complex and refractory skin disease.",
+   "achievement": "Led the development of complex skin disease care at PUMC Hospital, with national leadership in cutaneous lymphoma, rare skin disease and skin tumour surgery.",
+   "honors": "Chinese Medical Science and Technology Award."
+  },
+  "dermatology-zhang-xue-jun": {
+   "achievement": "Genome-wide association studies (GWAS) in psoriasis and vitiligo, identifying multiple susceptibility genes.",
+   "honors": "National-level projects in dermatological genetics."
+  },
+  "dermatology-gao-xing-hua": {
+   "achievement": "Immune-mediated skin disease and photomedicine.",
+   "honors": "Research on cutaneous immunology and phototherapy."
+  },
+  "dermatology-wang-gang": {
+   "achievement": "Immune mechanisms of psoriasis and application of biologics.",
+   "honors": "Research on biologic therapy for psoriasis."
+  },
+  "dermatology-tu-ping": {
+   "achievement": "Dermatopathological diagnosis and cutaneous lymphoma.",
+   "honors": "Research on dermatopathology and complex skin disease."
+  },
+  "dermatology-zhang-jian-zhong": {
+   "focus": "Cutaneous fungal disease, dermatologic surgery, atopic dermatitis."
+  },
+  "dermatology-xu-jin-hua": {
+   "focus": "Dermatology and venereology, immune-mediated skin disease."
+  },
+  "dermatology-zheng-zhi-zhong": {
+   "focus": "Pigmentary skin disorders, laser aesthetics."
+  },
+  "dermatology-sun-jian-fang": {
+   "focus": "Dermatopathology, cutaneous lymphoma."
+  },
+  "gastroenterology-fan-dai-ming": {
+   "title": "Academician, Chinese Academy of Engineering; Foreign Academician, US National Academy of Medicine",
+   "authority": "Academician of the Chinese Academy of Engineering; former president of the Fourth Military Medical University; founder of holistic integrative medicine (HIM) in China; former chair of the Chinese Society of Gastroenterology.",
+   "focus": "Early diagnosis of gastrointestinal tumours, gastric cancer prevention, complex digestive disease, holistic integrative medicine.",
+   "achievement": "Systematic advances in early gastric cancer diagnosis and molecular mechanisms; founded and promoted the HIM theoretical framework nationwide.",
+   "honors": "National Science and Technology Progress Award (First Class); Ho Leung Ho Lee Foundation Science and Technology Progress Award."
+  },
+  "gastroenterology-wu-kai-chun": {
+   "achievement": "Immune mechanisms and biologic therapy in inflammatory bowel disease (IBD).",
+   "honors": "Multicentre IBD research."
+  },
+  "gastroenterology-fang-jing-yuan": {
+   "achievement": "Gut microbiome in early detection of colorectal cancer; chemotherapy resistance.",
+   "honors": "Research on gut microbiota and gastrointestinal tumours."
+  },
+  "gastroenterology-tang-cheng-wei": {
+   "achievement": "Pancreatic disease and interventional treatment of portal hypertension.",
+   "honors": "Clinical research in pancreatic disease."
+  },
+  "gastroenterology-ling-hu-en-qiang": {
+   "achievement": "Innovation in super-minimally invasive endoscopic techniques (STER/ERAT).",
+   "honors": "Research on minimally invasive endoscopic techniques."
+  },
+  "gastroenterology-li-zhao-shen": {
+   "focus": "Digestive endoscopy, pancreatic disease, early cancer screening."
+  },
+  "gastroenterology-pan-guo-zong": {
+   "focus": "Functional gastrointestinal disorders, inflammatory bowel disease."
+  },
+  "gastroenterology-zhang-shu-tian": {
+   "focus": "Digestive endoscopy, early gastrointestinal cancer."
+  },
+  "urology-zhang-xu": {
+   "title": "Academician, Chinese Academy of Sciences",
+   "authority": "Academician of the Chinese Academy of Sciences; director of the Urology Institute at PLA General Hospital; chair of the Chinese Urological Association; founder of laparoscopic and robotic urology in China.",
+   "focus": "Urological tumours (prostate, kidney, bladder), robotic and laparoscopic minimally invasive surgery, kidney transplantation.",
+   "achievement": "Originated the retroperitoneal laparoscopic technique system; his team completed Asia's first 10,000 da Vinci robotic procedures, driving a leap in minimally invasive urology in China.",
+   "honors": "National Science and Technology Progress Award; Ho Leung Ho Lee Foundation Science and Technology Progress Award."
+  },
+  "urology-zhou-li-qun": {
+   "achievement": "Laparoscopic and robotic surgery for urological tumours, kidney-sparing surgery.",
+   "honors": "Clinical research on kidney and bladder cancer."
+  },
+  "urology-zheng-jun-hua": {
+   "achievement": "Kidney transplantation and minimally invasive urology.",
+   "honors": "Research on transplant immunology."
+  },
+  "urology-lin-tian-xin": {
+   "achievement": "Precision diagnosis of bladder cancer and bladder-preserving integrated treatment.",
+   "honors": "Multicentre research on bladder cancer."
+  },
+  "urology-wei-qiang": {
+   "achievement": "Robotic surgery for prostate cancer and multidisciplinary urological oncology care.",
+   "honors": "Clinical research on prostate cancer."
+  },
+  "urology-sun-ying-hao": {
+   "focus": "Prostate disease, urinary stones, minimally invasive surgery."
+  },
+  "urology-na-yan-qun": {
+   "focus": "Prostate disease, urological tumours."
+  },
+  "urology-huang-jian": {
+   "focus": "Bladder cancer, minimally invasive urological tumour surgery."
+  },
+  "urology-xue-wei": {
+   "focus": "Robotic surgery for prostate cancer."
+  },
+  "andrology-guo-ying-lu": {
+   "title": "Academician, Chinese Academy of Engineering",
+   "authority": "Academician of the Chinese Academy of Engineering; one of the founders of urology and andrology in China; established the country's first andrology centre; founder of the Chinese Society of Andrology.",
+   "focus": "Urinary stones, prostate disease, andrological disorders (sexual dysfunction, male infertility).",
+   "achievement": "Promoted the nationwide adoption of extracorporeal shock wave lithotripsy and established the andrology care system and training mechanisms.",
+   "honors": "National Science and Technology Progress Award; Ho Leung Ho Lee Foundation Science and Technology Progress Award."
+  },
+  "andrology-li-hong-jun": {
+   "achievement": "Standardised care for male infertility and sexual dysfunction.",
+   "honors": "Research on male reproductive health."
+  },
+  "andrology-bai-wen-jun": {
+   "achievement": "Andrological microsurgery and sexual medicine.",
+   "honors": "Research on male sexual dysfunction."
+  },
+  "andrology-shang-xue-jun": {
+   "achievement": "Male reproduction and sperm quality research.",
+   "honors": "Multicentre research on male infertility."
+  },
+  "andrology-he-le-ye": {
+   "achievement": "Sexual medicine and male genital reconstruction.",
+   "honors": "Research on sexual dysfunction."
+  },
+  "andrology-jiang-hui": {
+   "focus": "Male infertility, sexual dysfunction, reproductive medicine."
+  },
+  "andrology-zhu-ji-chuan": {
+   "focus": "Andrology, prostate disease."
+  },
+  "andrology-dai-yu-tian": {
+   "focus": "Andrology, sexual dysfunction."
+  },
+  "general-surgery-zhao-yu-pei": {
+   "title": "Academician, Chinese Academy of Sciences",
+   "authority": "Academician of the Chinese Academy of Sciences; honorary president of Peking Union Medical College Hospital; chair of the Chinese Surgical Society; an authority on pancreatic surgery in China.",
+   "focus": "Pancreatic tumours, pancreatitis, biliary disease, complex abdominal surgery.",
+   "achievement": "Led the establishment of China's pancreatic disease care system and standardised pancreatic cancer guidelines, improving the safety and outcomes of pancreatic surgery.",
+   "honors": "National Science and Technology Progress Award (Second Class); Ho Leung Ho Lee Foundation Science and Technology Progress Award."
+  },
+  "general-surgery-wang-xue-hao": {
+   "title": "Academician, Chinese Academy of Engineering",
+   "achievement": "Living-donor liver transplantation and liver cancer surgery systems.",
+   "honors": "Research on liver transplantation and liver cancer."
+  },
+  "general-surgery-zheng-shu-sen": {
+   "title": "Academician, Chinese Academy of Engineering",
+   "achievement": "The Hangzhou protocol for liver transplantation and hepatobiliary-pancreatic surgery.",
+   "honors": "Multicentre research on liver transplantation."
+  },
+  "general-surgery-zhou-jian": {
+   "achievement": "Early diagnosis of liver cancer and liver transplantation.",
+   "honors": "Research on precision treatment of liver cancer."
+  },
+  "general-surgery-mao-yi-lei": {
+   "achievement": "Hepatobiliary surgery, liver imaging and liver function assessment.",
+   "honors": "Research on hepatobiliary tumours."
+  },
+  "general-surgery-chen-xiao-ping": {
+   "focus": "Hepatobiliary surgery, liver cancer surgery."
+  },
+  "general-surgery-dong-jia-hong": {
+   "focus": "Hepatobiliary-pancreatic surgery, precision hepatobiliary surgery."
+  },
+  "general-surgery-fan-jia": {
+   "focus": "Liver cancer, liver transplantation."
+  },
+  "general-surgery-zhang-tai-ping": {
+   "focus": "Pancreatic surgery, hepatobiliary-pancreatic tumours."
+  },
+  "endocrinology-ning-guang": {
+   "title": "Academician, Chinese Academy of Engineering",
+   "authority": "Academician of the Chinese Academy of Engineering; former president of Ruijin Hospital; former chair of the Chinese Society of Endocrinology; an authority on endocrine and metabolic disease in China.",
+   "focus": "Diabetes, obesity, metabolic syndrome, endocrine tumours and complex endocrine disease.",
+   "achievement": "Led Chinese epidemiological studies of diabetes and metabolic syndrome; drove standardised endocrine care and the national Metabolic Management Centre (MMC) network.",
+   "honors": "National Science and Technology Progress Award (Second Class); Ho Leung Ho Lee Foundation Science and Technology Progress Award."
+  },
+  "endocrinology-ji-li-nong": {
+   "achievement": "Diabetes epidemiology and clinical research on glucose-lowering drugs.",
+   "honors": "Diabetes cohorts and clinical trials."
+  },
+  "endocrinology-teng-wei-ping": {
+   "achievement": "Epidemiology of thyroid disease and iodine nutrition research.",
+   "honors": "National survey of thyroid disease."
+  },
+  "endocrinology-zhao-jia-jun": {
+   "achievement": "Lipotoxicity, thyroid and metabolic disease research.",
+   "honors": "Research on mechanisms of metabolic disease."
+  },
+  "endocrinology-liu-chao": {
+   "achievement": "Integrated traditional and Western medicine for thyroid nodules and hyperthyroidism.",
+   "honors": "Research on thyroid disease."
+  },
+  "endocrinology-yang-wen-ying": {
+   "focus": "Diabetes, pituitary and thyroid disease, obesity."
+  },
+  "endocrinology-mu-yi-ming": {
+   "focus": "Diabetes, complex endocrine disease."
+  },
+  "endocrinology-xing-xiao-ping": {
+   "focus": "Complex endocrine disease, rare endocrine tumours."
+  },
+  "nephrology-chen-xiang-mei": {
+   "title": "Academician, Chinese Academy of Engineering",
+   "authority": "Academician of the Chinese Academy of Engineering; director of the Kidney Disease Institute at PLA General Hospital; former chair of the Chinese Society of Nephrology; an authority on nephrology in China.",
+   "focus": "Chronic kidney disease, IgA nephropathy, lupus nephritis, blood purification and kidney transplantation.",
+   "achievement": "Led the establishment of China's chronic kidney disease epidemiology database and treatment guidelines; advanced standardisation and domestic development of blood purification technology.",
+   "honors": "National Science and Technology Progress Award (Second Class); Ho Leung Ho Lee Foundation Science and Technology Progress Award."
+  },
+  "nephrology-zhao-ming-hui": {
+   "achievement": "ANCA-associated vasculitis and lupus nephritis research.",
+   "honors": "Research on autoimmune kidney disease."
+  },
+  "nephrology-yu-xue-qing": {
+   "achievement": "Genetics and precision treatment of IgA nephropathy.",
+   "honors": "Multicentre research on IgA nephropathy."
+  },
+  "nephrology-mei-zhang-lin": {
+   "achievement": "Diagnosis and intervention in polycystic kidney disease.",
+   "honors": "National-level projects on polycystic kidney disease."
+  },
+  "nephrology-ding-xiao-qiang": {
+   "achievement": "Acute kidney injury (AKI) and blood purification.",
+   "honors": "Research on AKI early warning and dialysis."
+  },
+  "nephrology-liu-zhi-hong": {
+   "focus": "IgA nephropathy, lupus nephritis."
+  },
+  "nephrology-hou-fan-fan": {
+   "focus": "Chronic kidney disease, dialysis."
+  },
+  "nephrology-li-hang": {
+   "focus": "Complex kidney disease, lupus nephritis."
+  },
+  "hematology-huang-xiao-jun": {
+   "title": "Chief physician, professor, doctoral supervisor",
+   "authority": "Director of the Peking University Institute of Hematology; former chair of the Chinese Society of Hematology; a leader in hematopoietic stem cell transplantation in China.",
+   "focus": "Hematopoietic stem cell transplantation, leukaemia, aplastic anaemia, myeloproliferative neoplasms.",
+   "achievement": "Originated the Beijing protocol for haploidentical stem cell transplantation, enabling transplantation for patients without an HLA-matched donor; adopted in international guidelines and used worldwide.",
+   "honors": "National Science and Technology Progress Award (Second Class); Ho Leung Ho Lee Foundation Science and Technology Progress Award."
+  },
+  "hematology-hu-yu": {
+   "achievement": "Thrombosis and haemostasis, CAR-T and coagulation disorders.",
+   "honors": "Research on coagulation disorders."
+  },
+  "hematology-li-jun-min": {
+   "achievement": "Precision treatment of leukaemia and hematopoietic stem cell transplantation.",
+   "honors": "Clinical research on leukaemia."
+  },
+  "hematology-liu-qi-fa": {
+   "achievement": "Hematopoietic stem cell transplantation and prevention of GVHD.",
+   "honors": "Research on transplant immunology."
+  },
+  "hematology-jiang-qian": {
+   "achievement": "Molecular monitoring and treatment discontinuation in chronic myeloid leukaemia (CML).",
+   "honors": "National CML registry study."
+  },
+  "hematology-wang-jian-xiang": {
+   "focus": "Leukaemia, hematopoietic stem cell transplantation."
+  },
+  "hematology-wu-de-pei": {
+   "focus": "Hematopoietic stem cell transplantation, leukaemia."
+  },
+  "hematology-zhou-dao-bin": {
+   "focus": "Lymphoma, myeloma, complex haematological disease."
+  },
+  "stomatology-zhang-zhi-yuan": {
+   "title": "Academician, Chinese Academy of Engineering",
+   "authority": "Academician of the Chinese Academy of Engineering; director of the National Center for Stomatology; honorary president of the Chinese Stomatological Association; an authority on oral and maxillofacial surgery in China.",
+   "focus": "Oral and maxillofacial and head and neck tumours, functional reconstruction of maxillofacial defects, complex oral and maxillofacial surgery.",
+   "achievement": "Achieved internationally leading results in surgery and functional reconstruction for advanced oral and maxillofacial malignancies invading the skull base.",
+   "honors": "National Science and Technology Progress Award (Second Class); Chinese Physician Award."
+  },
+  "stomatology-wang-xing": {
+   "achievement": "Orthognathic surgery and craniofacial deformity correction.",
+   "honors": "Research on orthognathic surgery."
+  },
+  "stomatology-zhang-fu-qiang": {
+   "achievement": "Prosthodontics and implant-supported dentures.",
+   "honors": "Research on dental restorative materials."
+  },
+  "stomatology-zhou-yan-min": {
+   "achievement": "Dental implants and bone augmentation.",
+   "honors": "Clinical research on dental implants."
+  },
+  "stomatology-zhao-yi-min": {
+   "title": "Academician, Chinese Academy of Engineering",
+   "achievement": "Maxillofacial defect rehabilitation and implant robotics.",
+   "honors": "Research on dental prosthetics robotics."
+  },
+  "stomatology-wang-song-ling": {
+   "focus": "Salivary gland disease, oral biology."
+  },
+  "stomatology-yu-guang-yan": {
+   "focus": "Salivary gland disease, oral and maxillofacial tumours, facial nerve repair."
+  },
+  "stomatology-zhou-xue-dong": {
+   "focus": "Endodontics, oral microbiology."
+  },
+  "ent-wang-zheng-min": {
+   "title": "Academician, Chinese Academy of Sciences",
+   "authority": "Academician of the Chinese Academy of Sciences; principal founder and pioneer of modern ear and lateral skull base microsurgery in China; a flagship figure in otorhinolaryngology–head and neck surgery.",
+   "focus": "Middle ear and lateral skull base surgery, otomicrosurgery, cochlear implants, hearing reconstruction.",
+   "achievement": "First in China to perform tympanoplasty for cholesteatomatous otitis media and microsurgical laser stapedotomy; created China's precision middle ear surgery and lateral skull base surgery systems.",
+   "honors": "National Science and Technology Progress Award; Ho Leung Ho Lee Foundation Science and Technology Progress Award."
+  },
+  "ent-zhou-bing": {
+   "achievement": "Endoscopic sinus and endoscopic skull base surgery.",
+   "honors": "Research on nasal skull base surgery."
+  },
+  "ent-li-hua-wei": {
+   "achievement": "Otomicrosurgery, hearing reconstruction and cochlear implantation.",
+   "honors": "Research in auditory medicine."
+  },
+  "ent-fang-ju-gao": {
+   "achievement": "Head and neck tumour resection and functional reconstruction.",
+   "honors": "Research on head and neck tumours."
+  },
+  "ent-liu-ming": {
+   "achievement": "Ear disease and hearing reconstruction.",
+   "honors": "Research on prevention and treatment of hearing loss."
+  },
+  "ent-han-de-min": {
+   "focus": "Otorhinolaryngology–head and neck surgery, cochlear implants, rhinology."
+  },
+  "ent-wu-hao": {
+   "focus": "Otology, artificial hearing, acoustic neuroma."
+  },
+  "ent-gao-zhi-qiang": {
+   "focus": "Otoneurosurgery, lateral skull base surgery."
+  },
+  "ent-chi-fang-lu": {
+   "focus": "Otomicrosurgery, hearing reconstruction."
+  },
+  "psychiatry-lu-lin": {
+   "title": "Academician, Chinese Academy of Sciences",
+   "authority": "Academician of the Chinese Academy of Sciences; president of Peking University Sixth Hospital; director of the National Clinical Research Center for Mental Disorders; a leader in psychiatry and sleep medicine in China.",
+   "focus": "Sleep disorders, depression, anxiety disorders, addiction medicine, neurobiology of psychiatric disorders.",
+   "achievement": "Systematic advances in the neurobiology of sleep disorders and addiction; advanced the development of China's mental health service system.",
+   "honors": "National Natural Science Award (Second Class); Ho Leung Ho Lee Foundation Science and Technology Progress Award."
+  },
+  "psychiatry-zhang-dai": {
+   "achievement": "Psychiatric genetics and pharmacogenomics.",
+   "honors": "Research on psychiatric genetics."
+  },
+  "psychiatry-ma-hong": {
+   "achievement": "Psychiatric rehabilitation, crisis intervention and post-disaster psychological assistance.",
+   "honors": "Research on psychiatric rehabilitation services."
+  },
+  "psychiatry-wang-zhen": {
+   "achievement": "Clinical research on anxiety disorders and obsessive-compulsive disorder.",
+   "honors": "Research on anxiety disorders."
+  },
+  "psychiatry-zhang-wei-hua": {
+   "achievement": "Diagnosis and treatment of depressive and sleep disorders.",
+   "honors": "Research on depressive disorders."
+  },
+  "psychiatry-yu-xin": {
+   "focus": "Geriatric psychiatry, schizophrenia."
+  },
+  "psychiatry-li-ling-jiang": {
+   "focus": "Depression, post-traumatic stress disorder."
+  },
+  "psychiatry-huang-yue-qin": {
+   "focus": "Psychiatric epidemiology."
+  },
+  "tcm-li-dian-gui": {
+   "title": "National TCM Master (Guoyi Dashi)",
+   "authority": "National TCM Master and nationally renowned TCM physician; originator of the turbid-toxin theory; honorary chair of the Spleen and Stomach Disease Branch of the China Association of Chinese Medicine.",
+   "focus": "Chronic atrophic gastritis, gastric precancerous lesions, cirrhosis, spleen and stomach disorders.",
+   "achievement": "Developed the turbid-toxin theory and detoxifying therapy, significantly improving the reversal rate of gastric precancerous lesions; work recognised with a National Science and Technology Progress Award (Second Class).",
+   "honors": "National TCM Master; National Science and Technology Progress Award (Second Class); National Outstanding Contribution Award for Traditional Chinese Medicine."
+  },
+  "tcm-tong-xiao-lin": {
+   "title": "Academician, Chinese Academy of Sciences",
+   "achievement": "Proposed state-target differentiation and treatment; developed the sugar-collateral disease theory of diabetes and TCM intervention protocols.",
+   "honors": "TCM intervention and evidence-based research in diabetes."
+  },
+  "tcm-zhang-bo-li": {
+   "title": "Academician, Chinese Academy of Engineering",
+   "achievement": "TCM in cardiovascular prevention and in controlling major epidemics.",
+   "honors": "Research on TCM for major diseases."
+  },
+  "tcm-huang-lu-qi": {
+   "title": "Academician, Chinese Academy of Engineering",
+   "achievement": "Medicinal plant resources and molecular pharmacognosy.",
+   "honors": "National survey of TCM resources and research on geo-authentic medicinal materials."
+  },
+  "tcm-wang-yong-yan": {
+   "title": "Academician, Chinese Academy of Engineering",
+   "achievement": "TCM brain disease and stroke syndrome research.",
+   "honors": "Research on TCM brain disease."
+  },
+  "tcm-chen-ke-ji": {
+   "focus": "Integrated traditional and Western medicine in cardiovascular disease, blood stasis syndrome."
+  },
+  "tcm-wang-qi": {
+   "focus": "TCM constitution theory, andrology and allergic constitution regulation."
+  },
+  "tcm-zhang-da-ning": {
+   "focus": "TCM nephrology, chronic renal failure."
+  },
+  "tcm-xia-gui-cheng": {
+   "focus": "TCM gynaecology, infertility, menstrual disorders."
+  },
+  "rheumatology-zhang-feng-chun": {
+   "title": "Chief physician, professor, doctoral supervisor",
+   "authority": "Director of the Department of Internal Medicine at Peking Union Medical College Hospital; former chair of the Chinese Rheumatology Association; a driver of standardised rheumatology care in China.",
+   "focus": "Systemic lupus erythematosus, rheumatoid arthritis, Sjögren's syndrome, complex autoimmune disease.",
+   "achievement": "Led China's rheumatology care standards and multiple guidelines; advanced early diagnosis and individualised treatment of rheumatoid arthritis.",
+   "honors": "Chinese Medical Science and Technology Award; National Advanced Worker."
+  },
+  "rheumatology-zhao-yan": {
+   "achievement": "Research on systemic lupus erythematosus and Sjögren's syndrome.",
+   "honors": "Multicentre SLE research."
+  },
+  "rheumatology-xu-hu-ji": {
+   "achievement": "Ankylosing spondylitis and exploratory CAR-T therapy for rheumatic disease.",
+   "honors": "Research on cell therapy for autoimmune disease."
+  },
+  "rheumatology-huang-ci-bo": {
+   "achievement": "Geriatric rheumatology and gout management.",
+   "honors": "Research on geriatric rheumatic disease."
+  },
+  "rheumatology-wu-hu-sheng": {
+   "achievement": "Differential diagnosis of rheumatic and osteoarticular disease.",
+   "honors": "Research on rheumatic bone disease."
+  },
+  "rheumatology-ceng-xiao-feng": {
+   "focus": "Systemic lupus erythematosus, rheumatoid arthritis."
+  },
+  "rheumatology-li-zhan-guo": {
+   "focus": "Rheumatoid arthritis, biologic therapy."
+  },
+  "rheumatology-gu-jie-ruo": {
+   "focus": "Ankylosing spondylitis, gout."
+  },
+  "rheumatology-bao-chun-de": {
+   "focus": "Systemic lupus erythematosus, complex rheumatic disease."
+  },
+  "infectious-diseases-li-lan-juan": {
+   "title": "Academician, Chinese Academy of Engineering",
+   "authority": "Academician of the Chinese Academy of Engineering; director of the State Key Laboratory for Diagnosis and Treatment of Infectious Diseases; an authority on artificial liver support and infectious disease in China.",
+   "focus": "Liver failure and artificial liver support, emerging infectious diseases, viral hepatitis, infectious disease.",
+   "achievement": "Created the artificial liver support system, significantly reducing mortality in liver failure; played a key role in controlling H7N9 and COVID-19.",
+   "honors": "National Science and Technology Progress Special Award; Ho Leung Ho Lee Foundation Science and Technology Progress Award."
+  },
+  "infectious-diseases-gao-fu": {
+   "title": "Academician, Chinese Academy of Sciences",
+   "achievement": "Mechanisms of cross-species pathogen transmission and vaccine development; H7N9 origin tracing.",
+   "honors": "Research on emerging infectious diseases and vaccines."
+  },
+  "infectious-diseases-lu-hong-zhou": {
+   "achievement": "Clinical management of emerging infectious diseases and infection control.",
+   "honors": "Clinical research on infectious disease."
+  },
+  "infectious-diseases-jiang-rong-meng": {
+   "achievement": "Severe infection and fever of unknown origin.",
+   "honors": "Research on severe infection management."
+  },
+  "infectious-diseases-chen-cheng-wei": {
+   "achievement": "Diagnosis and treatment of liver and infectious disease.",
+   "honors": "Clinical research on liver disease."
+  },
+  "infectious-diseases-wang-fu-sheng": {
+   "focus": "Viral hepatitis, HIV/AIDS, stem cell therapy for liver disease."
+  },
+  "infectious-diseases-zhang-wen-hong": {
+   "focus": "Infectious diseases, fever of unknown origin."
+  },
+  "infectious-diseases-weng-xin-hua": {
+   "focus": "Fever of unknown origin, central nervous system infections."
+  },
+  "infectious-diseases-wang-gui-qiang": {
+   "focus": "Viral hepatitis, complex infections."
+  },
+  "plastic-surgery-li-qing-feng": {
+   "title": "Professor, chief physician, doctoral supervisor",
+   "authority": "Vice president of Shanghai Ninth People's Hospital and director of plastic and reconstructive surgery; Changjiang Scholar; National Science Fund for Distinguished Young Scholars awardee; a leader in reconstructive surgery and regenerative medicine in China.",
+   "focus": "Facial contouring and eye aesthetics, scar and wound repair, body surface organ reconstruction, fat grafting and regenerative medicine.",
+   "achievement": "His team achieved the world's first cross-germ-layer fat regeneration, advancing the regenerative medicine paradigm; internationally leading in complex wound repair and facial reconstruction.",
+   "honors": "Chinese Medical Science and Technology Progress Award; Shanghai Science and Technology Progress Award; American Sackler Foundation China Physician Award."
+  },
+  "plastic-surgery-cao-yi-lin": {
+   "achievement": "Tissue-engineered cartilage and ear reconstruction; internationally leading work including the human-ear mouse model.",
+   "honors": "Research on tissue engineering and regenerative medicine."
+  },
+  "plastic-surgery-song-jian-xing": {
+   "achievement": "Fat grafting and breast reconstruction/augmentation.",
+   "honors": "Clinical research on fat grafting."
+  },
+  "plastic-surgery-li-fa-cheng": {
+   "achievement": "Liposuction and autologous fat grafting for face and breast.",
+   "honors": "Research on fat grafting."
+  },
+  "plastic-surgery-wang-jia-qi": {
+   "achievement": "Facial and neck rejuvenation and eye aesthetics.",
+   "honors": "Research on facial rejuvenation."
+  },
+  "plastic-surgery-qi-zuo-liang": {
+   "focus": "Aesthetic surgery, craniofacial deformity correction."
+  },
+  "plastic-surgery-jiang-hai-yue": {
+   "focus": "Ear reconstruction, facial plastic surgery."
+  },
+  "plastic-surgery-guo-shu-zhong": {
+   "focus": "Ear reconstruction, microsurgical reconstruction."
+  }
+ },
+ "departments": {
+  "呼吸与危重症医学科": "Respiratory & Critical Care Medicine",
+  "心血管内科": "Cardiology",
+  "心脏外科": "Cardiac Surgery",
+  "神经外科": "Neurosurgery",
+  "神经内科": "Neurology",
+  "骨科": "Orthopedics",
+  "肿瘤科（肿瘤内科/综合治疗）": "Oncology (Medical Oncology & Integrated Therapy)",
+  "胸外科": "Thoracic Surgery",
+  "妇产科": "Obstetrics & Gynecology",
+  "儿科": "Pediatrics",
+  "眼科": "Ophthalmology",
+  "皮肤科": "Dermatology",
+  "消化内科": "Gastroenterology",
+  "泌尿外科": "Urology",
+  "男科": "Andrology",
+  "普外科（肝胆胰/胃肠）": "General Surgery (Hepatobiliary, Pancreatic & GI)",
+  "内分泌科": "Endocrinology",
+  "肾内科": "Nephrology",
+  "血液科": "Hematology",
+  "口腔科": "Stomatology",
+  "耳鼻喉科（耳鼻咽喉头颈外科）": "Otorhinolaryngology (ENT) / Head & Neck Surgery",
+  "精神心理科": "Psychiatry",
+  "中医科（中医/中西医结合）": "Traditional Chinese Medicine",
+  "风湿免疫科": "Rheumatology",
+  "感染科": "Infectious Diseases",
+  "整形外科（整复外科）": "Plastic & Reconstructive Surgery"
+ },
+ "hospitals": {
+  "北京协和医院": "Peking Union Medical College Hospital",
+  "中国人民解放军总医院": "Chinese PLA General Hospital",
+  "北京大学人民医院": "Peking University People's Hospital",
+  "北京大学第一医院": "Peking University First Hospital",
+  "上海交通大学医学院附属第九人民医院": "Shanghai Ninth People's Hospital, Shanghai Jiao Tong University",
+  "中国医学科学院阜外医院": "Fuwai Hospital, Chinese Academy of Medical Sciences",
+  "北京大学第六医院": "Peking University Sixth Hospital",
+  "上海交通大学医学院附属瑞金医院": "Ruijin Hospital, Shanghai Jiao Tong University",
+  "四川大学华西医院": "West China Hospital, Sichuan University",
+  "复旦大学附属中山医院": "Zhongshan Hospital, Fudan University",
+  "复旦大学附属华山医院": "Huashan Hospital, Fudan University",
+  "上海交通大学医学院附属仁济医院": "Renji Hospital, Shanghai Jiao Tong University",
+  "中国医学科学院整形外科医院": "Plastic Surgery Hospital, Chinese Academy of Medical Sciences",
+  "复旦大学附属眼耳鼻喉科医院": "Eye & ENT Hospital of Fudan University",
+  "山东省立医院": "Shandong Provincial Hospital",
+  "广州医科大学附属第一医院": "First Affiliated Hospital of Guangzhou Medical University",
+  "首都医科大学宣武医院": "Xuanwu Hospital, Capital Medical University",
+  "首都医科大学附属北京同仁医院": "Beijing Tongren Hospital, Capital Medical University",
+  "东部战区总医院": "Eastern Theater General Hospital, PLA",
+  "中国医学科学院肿瘤医院": "Cancer Hospital, Chinese Academy of Medical Sciences",
+  "中日友好医院": "China-Japan Friendship Hospital",
+  "北京大学第三医院": "Peking University Third Hospital",
+  "华中科技大学同济医学院附属同济医院": "Tongji Hospital, Tongji Medical College of HUST",
+  "南京大学医学院附属鼓楼医院": "Nanjing Drum Tower Hospital",
+  "复旦大学附属儿科医院": "Children's Hospital of Fudan University",
+  "海军军医大学第一附属医院（长海医院）": "Changhai Hospital, Naval Medical University",
+  "空军军医大学西京医院": "Xijing Hospital, Air Force Medical University",
+  "首都医科大学附属北京天坛医院": "Beijing Tiantan Hospital, Capital Medical University",
+  "首都医科大学附属北京安贞医院": "Beijing Anzhen Hospital, Capital Medical University",
+  "上海交通大学附属第一人民医院": "Shanghai General Hospital, Shanghai Jiao Tong University",
+  "中国中医科学院": "China Academy of Chinese Medical Sciences",
+  "中国医科大学附属第一医院": "First Hospital of China Medical University",
+  "中山大学孙逸仙纪念医院": "Sun Yat-sen Memorial Hospital, Sun Yat-sen University",
+  "中山大学肿瘤防治中心": "Sun Yat-sen University Cancer Center",
+  "中山大学附属第三医院": "Third Affiliated Hospital of Sun Yat-sen University",
+  "北京大学口腔医院": "Peking University School and Hospital of Stomatology",
+  "北京大学肿瘤医院": "Peking University Cancer Hospital",
+  "北京积水潭医院": "Beijing Jishuitan Hospital",
+  "南方医科大学南方医院": "Nanfang Hospital, Southern Medical University",
+  "广东省人民医院": "Guangdong Provincial People's Hospital",
+  "浙江大学医学院附属儿童医院": "Children's Hospital, Zhejiang University School of Medicine",
+  "浙江大学医学院附属第一医院": "First Affiliated Hospital, Zhejiang University School of Medicine",
+  "海军军医大学第二附属医院（长征医院）": "Changzheng Hospital, Naval Medical University",
+  "上海市精神卫生中心": "Shanghai Mental Health Center",
+  "上海市肺科医院": "Shanghai Pulmonary Hospital",
+  "中南大学湘雅二医院": "Second Xiangya Hospital, Central South University",
+  "中国中医科学院广安门医院": "Guang'anmen Hospital, China Academy of Chinese Medical Sciences",
+  "中国中医科学院西苑医院": "Xiyuan Hospital, China Academy of Chinese Medical Sciences",
+  "中国人民解放军总医院第五医学中心": "Fifth Medical Center, Chinese PLA General Hospital",
+  "中国医学科学院皮肤病医院": "Institute of Dermatology, Chinese Academy of Medical Sciences",
+  "中国医学科学院血液病医院": "Institute of Hematology & Blood Diseases Hospital, CAMS",
+  "中国疾病预防控制中心": "Chinese Center for Disease Control and Prevention",
+  "中山大学中山眼科中心": "Zhongshan Ophthalmic Center, Sun Yat-sen University",
+  "中山大学附属第一医院": "First Affiliated Hospital of Sun Yat-sen University",
+  "北京中医药大学": "Beijing University of Chinese Medicine",
+  "北京医院": "Beijing Hospital",
+  "北京清华长庚医院": "Beijing Tsinghua Changgung Hospital",
+  "北部战区总医院": "Northern Theater General Hospital, PLA",
+  "华中科技大学同济医学院附属协和医院": "Union Hospital, Tongji Medical College of HUST",
+  "南京市第一医院": "Nanjing First Hospital",
+  "吉林大学口腔医院": "Stomatological Hospital of Jilin University",
+  "四川大学华西口腔医院": "West China Hospital of Stomatology, Sichuan University",
+  "四川大学华西第二医院": "West China Second University Hospital, Sichuan University",
+  "复旦大学附属肿瘤医院": "Fudan University Shanghai Cancer Center",
+  "天津中医药大学": "Tianjin University of Traditional Chinese Medicine",
+  "天津医科大学总医院": "Tianjin Medical University General Hospital",
+  "天津市中医药研究院": "Tianjin Academy of Traditional Chinese Medicine",
+  "安徽医科大学第一附属医院": "First Affiliated Hospital of Anhui Medical University",
+  "山东省肿瘤医院": "Shandong Cancer Hospital",
+  "江苏省中医院": "Jiangsu Provincial Hospital of Traditional Chinese Medicine",
+  "江苏省中西医结合医院": "Jiangsu Provincial Hospital of Integrated Chinese and Western Medicine",
+  "江苏省人民医院": "Jiangsu Provincial People's Hospital",
+  "江苏省肿瘤医院": "Jiangsu Cancer Hospital",
+  "河北医科大学第三医院": "Third Hospital of Hebei Medical University",
+  "河北省中医院": "Hebei Provincial Hospital of Traditional Chinese Medicine",
+  "浙江大学医学院附属第二医院": "Second Affiliated Hospital, Zhejiang University School of Medicine",
+  "深圳市第三人民医院": "Shenzhen Third People's Hospital",
+  "温州医科大学附属眼视光医院": "Eye Hospital of Wenzhou Medical University",
+  "爱尔眼科医院": "Aier Eye Hospital",
+  "空军军医大学口腔医院": "Stomatological Hospital, Air Force Medical University",
+  "苏州大学附属第一医院": "First Affiliated Hospital of Soochow University",
+  "西安交通大学第一附属医院": "First Affiliated Hospital of Xi'an Jiaotong University",
+  "西安交通大学第二附属医院": "Second Affiliated Hospital of Xi'an Jiaotong University",
+  "陆军军医大学第二附属医院（新桥医院）": "Xinqiao Hospital, Army Medical University",
+  "首都儿科研究所附属儿童医院": "Children's Hospital Affiliated to Capital Institute of Pediatrics",
+  "首都医科大学附属北京儿童医院": "Beijing Children's Hospital, Capital Medical University",
+  "首都医科大学附属北京友谊医院": "Beijing Friendship Hospital, Capital Medical University",
+  "首都医科大学附属北京口腔医院": "Beijing Stomatological Hospital, Capital Medical University",
+  "首都医科大学附属北京地坛医院": "Beijing Ditan Hospital, Capital Medical University",
+  "首都医科大学附属北京妇产医院": "Beijing Obstetrics and Gynecology Hospital",
+  "首都医科大学附属北京朝阳医院": "Beijing Chaoyang Hospital, Capital Medical University",
+  "陆军军医大学第一附属医院（西南医院）": "Southwest Hospital, Army Medical University",
+  "首都医科大学附属北京胸科医院": "Beijing Chest Hospital, Capital Medical University"
+ }
+}
